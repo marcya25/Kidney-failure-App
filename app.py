@@ -15,32 +15,32 @@ html, body, [class*="css"]  {
 }
 
 .main-title{
-    font-size:70px;        /* Increased */
-    color:#0A4FB3;         /* Blue */
+    font-size:100px;        /* Huge title */
+    color:#0A4FB3;          /* Blue */
     text-align:center;
-    font-weight:800;
-    margin-bottom:30px;
+    font-weight:900;
+    margin-bottom:40px;
 }
 
 .sub-title{
-    font-size:40px;        /* Increased */
+    font-size:60px;         /* Very visible subtitle */
     color:#1F618D;
-    font-weight:700;
+    font-weight:800;
     text-align:center;
-    margin-bottom:25px;
+    margin-bottom:30px;
 }
 
 label{
-    font-size:20px !important; /* Increased */
+    font-size:22px !important; /* Larger input labels */
     font-weight:600;
 }
 
 .stButton>button{
     background-color:#28B463;
     color:white;
-    font-size:22px;         /* Increased */
+    font-size:24px;          /* Bigger button text */
     border-radius:12px;
-    padding:12px 35px;
+    padding:15px 40px;
 }
 
 .stButton>button:hover{
